@@ -1,0 +1,32 @@
+what is a class
+    OOP
+    blueprint for creating objects
+    encapsulates data and behavior
+    helps us think about how things are related
+    basic syntax of classes
+        public class Class {
+            /* attributes */
+            /* constructors */
+            /* constructors */
+        }
+    what should be in a class
+        single(ish) responsibility
+attributes
+    they are usually private
+    contain data
+methods
+    constructors
+        overloading constructors
+    accessors
+        what are they
+        when do we use them
+        getters
+    mutators
+        what are they
+        when do we use them
+        setters
+static methods and attributes
+inheritance
+    what is it
+    when do we use it
+    when do we not use it
